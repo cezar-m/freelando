@@ -4,10 +4,10 @@ const tema = {
 	cores: {
 		branco: '',
 		atencao: '',
-		focus: '',
+		focus: '#B009FF',
 		primarias: {
 			a: '#5754ED',
-			b: '',
+			b: '#D93114',
 			c: ''
 		},
 		secundarias: {
@@ -22,7 +22,7 @@ const tema = {
 		},
 		dark: {
 			a: '',
-			b: ''
+			b: '#B61B00'
 		}
 	},
 	espacamentos: {
